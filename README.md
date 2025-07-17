@@ -12,10 +12,9 @@ I am a passionate and experienced **Frontend Developer** currently working in a 
 
 ## 🛠️ Top Skills
 
-- **React** & **Next.js**
+- **MERN Stack (MongoDB, Express.js, React, Node.js)**
 - **TypeScript**
 - **Tailwind CSS**
-- **MERN Stack (MongoDB, Express.js, React, Node.js)**
 - **AWS & Cloud Integration**
 - **Cybersecurity best practices**
 
@@ -34,7 +33,6 @@ An innovative music player that uses face detection technology to enhance user i
 - [LinkedIn](https://www.linkedin.com/in/ali-nouman-624071359/)
 - [Portfolio Website](https://portfolio-sage-kappa-16.vercel.app/)
 - **Email:** hb6348248@gmail.com
-- **Phone:** 03266348248
 - **Location:** Faisalabad, Pakistan
 
 ---
